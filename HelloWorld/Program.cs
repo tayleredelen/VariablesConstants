@@ -20,7 +20,7 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello, World!");
                 //method is purple cube
-                //statements terminated by semi-colon
+                //statements terminated by semi-colonn
 
         }
     }
